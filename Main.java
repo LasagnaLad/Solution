@@ -7,6 +7,7 @@ class Main {
         count = count + x;
       }
     }
+    //This is a comment.
     System.out.println("The sum of all integers under 10 that are divisible by 3 and 5 is " + count);
   }
 }
